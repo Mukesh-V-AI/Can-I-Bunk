@@ -214,17 +214,6 @@ flutter build ios
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- Flutter team for the amazing framework
-- Firebase for backend services
-- Material Design for UI inspiration
-- Open source community for inspiration
 
-## 📞 Support
 
-For support, email support@canibunk.com or join our Discord community.
-
----
-
-**Made with ❤️ for students, by students**
